@@ -100,8 +100,8 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col">Nombre</th>
-                            <th scope="col">Correo Electrónico</th>
+                            <th class="text-center section-title" scope="col">Nombre</th>
+                            <th class="text-center section-title" scope="col">Correo Electrónico</th>
                         </tr>
                     </thead>
                     <tbody id="tablaUsuarios">
