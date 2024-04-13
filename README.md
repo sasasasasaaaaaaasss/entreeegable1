@@ -95,13 +95,13 @@
 
     
         <section id="usuarios" style="display: none;">
-            <h2 class="text-center section-title">Listado de Usuarios</h2>
+            <h2>Listado de Usuarios</h2>
             <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
-                            <th class="text-center section-title" scope="col">Nombre</th>
-                            <th class="text-center section-title" scope="col">Correo Electrónico</th>
+                            <th class=scope="col">Nombre</th>
+                            <th class=scope="col">Correo Electrónico</th>
                         </tr>
                     </thead>
                     <tbody id="tablaUsuarios">
